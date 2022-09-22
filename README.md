@@ -1,0 +1,3 @@
+# szamologep
+
+minimal projekt
