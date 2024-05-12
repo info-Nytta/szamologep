@@ -1,3 +1,4 @@
 # szamologep
+Exercise for my students (minimal project)
 
-minimal projekt
+https://info.nytta.hu/web/mintak/szamologep/
